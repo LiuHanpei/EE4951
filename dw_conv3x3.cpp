@@ -58,8 +58,8 @@ int main(){
     std::ifstream ifs_param("dw_conv_weight3x3.bin", std::ios::in | std::ios::binary);
     ifs_param.read((char*)(***wBuffer), numOutputChannels * numInputChannels * kernelSize * kernelSize * sizeof(float));
     
-    std::ifstream ifs_param("dw_conv_bias3x3.bin", std::ios::in | std::ios::binary);
-    ifs_param.read((char*)(biasBuffer), numOutputChannels * sizeof(float));
+    std::ifstream ifs_bias("dw_conv_bias3x3.bin", std::ios::in | std::ios::binary);
+    ifs_bias.read((char*)(biasBuffer), numOutputChannels * sizeof(float));
     
     dw_conv2d3x3(inBuffer, wBuffer, biasBuffer, outBuffer);    
     // std::ofstream ofs_out("output_c.bin", std::ios::out | std::ios::binary);
