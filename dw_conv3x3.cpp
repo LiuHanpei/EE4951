@@ -7,6 +7,7 @@
 #define inputWidth 320
 #define outputHeight 160 // adjust it if you change other parameters
 #define outputWidth 320 // adjust it if you change other parameters
+#define paddingSize 1
 #define EPS 1e-5
 #include <iostream>
 #include <fstream>
