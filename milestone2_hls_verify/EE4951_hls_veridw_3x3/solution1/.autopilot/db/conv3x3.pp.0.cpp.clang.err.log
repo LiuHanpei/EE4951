@@ -1,0 +1,22 @@
+EE4951_hls_veri/conv3x3.cpp:10:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=inline_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=off_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS inline off
+        ^
+EE4951_hls_veri/conv3x3.cpp:11:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=array_partition_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=variable=Y_buf dim=4 complete_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS array_partition variable=Y_buf dim=4 complete
+        ^
+EE4951_hls_veri/conv3x3.cpp:12:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=array_partition_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=variable=X_buf dim=4 complete_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS array_partition variable=X_buf dim=4 complete
+        ^
+EE4951_hls_veri/conv3x3.cpp:13:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=array_partition_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=variable=W_buf dim=4 complete_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS array_partition variable=W_buf dim=4 complete
+        ^
+EE4951_hls_veri/conv3x3.cpp:14:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=array_partition_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=variable=B_buf dim=1 complete_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS array_partition variable=B_buf dim=1 complete
+        ^
+EE4951_hls_veri/conv3x3.cpp:28:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=pipeline_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=II=1_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS pipeline II=1
+        ^
+EE4951_hls_veri/conv3x3.cpp:31:9: warning: HLS pragma dump _XLX_SEP_ PragmaIsValid=1_XLX_SEP_ PragmaType=unroll_XLX_SEP_ PragmaContext=_XLX_SEP_ PragmaFunction=conv_3x3_XLX_SEP_ PragmaOptions=_XLX_SEP_ [-Wdump-hls-pragmas]
+#pragma HLS UNROLL
+        ^
+7 warnings generated.

@@ -1,0 +1,17 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../sim.cpp in debug mode
+   Compiling ../../../conv3x3.cpp in debug mode
+   Compiling ../../../main_func.cpp in debug mode
+   Compiling ../../../utils.cpp in debug mode
+   Generating csim.exe
+Beginning HLS tiled-convolution simulation...
+Tiled-convolution simulation complete!
+
+
+Output MSE:  0
+----------------------------------------
+Fixed-point Simulation FAILED :(
+----------------------------------------
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

@@ -1,0 +1,62 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../sim.cpp in debug mode
+   Generating csim.exe
+Beginning HLS  simulation...
+simulation complete!
+
+Output feature[0][1][1]: Expected: -0.380078	Actual: -0.0965796
+Output feature[1][1][1]: Expected: 0.315681	Actual: 0.64456
+Output feature[2][1][1]: Expected: 0.287842	Actual: -0.195408
+Output feature[3][1][1]: Expected: 0.204629	Actual: -0.401605
+Output feature[4][1][1]: Expected: 0.283222	Actual: -0.169902
+Output feature[5][1][1]: Expected: 0.818164	Actual: 0.536956
+Output feature[6][1][1]: Expected: -0.885716	Actual: -0.206168
+Output feature[7][1][1]: Expected: -0.21164	Actual: 0.366218
+Output feature[8][1][1]: Expected: 0.481672	Actual: 0.48478
+Output feature[9][1][1]: Expected: 0.575898	Actual: 0.574994
+Output feature[10][1][1]: Expected: -0.377437	Actual: -0.131306
+Output feature[11][1][1]: Expected: -0.256145	Actual: -0.549602
+Output feature[12][1][1]: Expected: 0.576261	Actual: 0.901695
+Output feature[13][1][1]: Expected: 0.873437	Actual: 0.0413753
+Output feature[14][1][1]: Expected: 0.524515	Actual: 0.554531
+Output feature[15][1][1]: Expected: 0.501444	Actual: 0.124764
+Output feature[16][1][1]: Expected: -0.264282	Actual: 0.330431
+Output feature[17][1][1]: Expected: 0.353081	Actual: 0.0713457
+Output feature[18][1][1]: Expected: -0.0459214	Actual: -0.207396
+Output feature[19][1][1]: Expected: -0.0720984	Actual: -0.161872
+Output feature[20][1][1]: Expected: 0.818664	Actual: 0.529724
+Output feature[21][1][1]: Expected: 0.928054	Actual: 0.257678
+Output feature[22][1][1]: Expected: -0.312682	Actual: -0.0200878
+Output feature[23][1][1]: Expected: 0.0309864	Actual: 0.83062
+Output feature[24][1][1]: Expected: 0.0916043	Actual: -0.129641
+Output feature[25][1][1]: Expected: 0.177524	Actual: 0.428601
+Output feature[26][1][1]: Expected: 0.241686	Actual: 0.632604
+Output feature[27][1][1]: Expected: 0.3704	Actual: -0.28466
+Output feature[28][1][1]: Expected: -0.108826	Actual: -0.0295332
+Output feature[29][1][1]: Expected: 0.499709	Actual: 0.0986461
+Output feature[30][1][1]: Expected: 0.707629	Actual: 0.386943
+Output feature[31][1][1]: Expected: -0.160808	Actual: 0.276692
+Output feature[32][1][1]: Expected: -0.238172	Actual: 0.271384
+Output feature[33][1][1]: Expected: 0.0115195	Actual: 0.495974
+Output feature[34][1][1]: Expected: 1.02044	Actual: 0.526562
+Output feature[35][1][1]: Expected: -0.4293	Actual: -0.3343
+Output feature[36][1][1]: Expected: 0.514362	Actual: 0.481627
+Output feature[37][1][1]: Expected: 0.044977	Actual: 0.0106918
+Output feature[38][1][1]: Expected: -0.218285	Actual: 0.193964
+Output feature[39][1][1]: Expected: -0.616848	Actual: -0.241166
+Output feature[40][1][1]: Expected: -0.15896	Actual: 0.0873052
+Output feature[41][1][1]: Expected: 0.196968	Actual: -0.174671
+Output feature[42][1][1]: Expected: 1.04213	Actual: 0.73796
+Output feature[43][1][1]: Expected: -0.529216	Actual: -0.369181
+Output feature[44][1][1]: Expected: -0.900064	Actual: -0.549868
+Output feature[45][1][1]: Expected: -0.617203	Actual: -0.120958
+Output feature[46][1][1]: Expected: -0.065107	Actual: 0.23669
+Output feature[47][1][1]: Expected: 0.733542	Actual: 0.193856
+
+Output MSE:  0.100362
+----------------------------------------
+Floating-point Simulation FAILED :(
+----------------------------------------
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

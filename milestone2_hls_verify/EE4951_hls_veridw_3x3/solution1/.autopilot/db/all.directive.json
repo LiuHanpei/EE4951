@@ -1,0 +1,44 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "main_func",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "main_func"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "F:/vivado_projects/EE4951_TaWork/EE4951_hls_veri/solution1/directives.tcl",
+    "sourceLine": 7,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "main_func",
+    "id": 1,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "main_func"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "F:/vivado_projects/EE4951_TaWork/EE4951_hls_veri/solution1/csynth.tcl",
+    "sourceLine": 25,
+    "success": true
+  }
+]

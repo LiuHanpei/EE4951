@@ -1,0 +1,25 @@
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:26880:7: warning: Added loop label VITIS_LOOP_1207_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1207_1: 
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:26880:7: note: FIX-IT applied suggested code changes
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27854:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27854:5: note: FIX-IT applied suggested code changes
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27868:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27868:5: note: FIX-IT applied suggested code changes
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27882:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:27882:5: note: FIX-IT applied suggested code changes
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:29499:7: warning: Added loop label VITIS_LOOP_1247_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1247_1: 
+F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri\solution1\.autopilot\db\utils.pp.0.cpp:29499:7: note: FIX-IT applied suggested code changes

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="main_func.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\main_func.cpp"/>
+    <originFiles name="utils.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\utils.cpp"/>
+    <originFiles name="utils.h" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\utils.h"/>
+    <originFiles name="dw_conv_bias3x3.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\dw_conv_bias3x3.bin"/>
+    <originFiles name="dw_conv_input3x3.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\dw_conv_input3x3.bin"/>
+    <originFiles name="dw_conv_output_torch3x3.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\dw_conv_output_torch3x3.bin"/>
+    <originFiles name="dw_conv_weight3x3.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\dw_conv_weight3x3.bin"/>
+  </source>
+  <testbench>
+    <originFiles name="sim.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veridw_3x3\sim.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

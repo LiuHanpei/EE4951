@@ -1,0 +1,20 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../sim.cpp in debug mode
+   Compiling ../../../dw_conv3x3.cpp in debug mode
+   Compiling ../../../main_func.cpp in debug mode
+   Compiling ../../../utils.cpp in debug mode
+   Generating csim.exe
+Beginning HLS  simulation...
+simulation complete!
+
+Output feature[0][15][15]: Expected: 0.267687	Actual: 0.353458
+Output feature[1][15][15]: Expected: 0.750561	Actual: 0.328228
+Output feature[2][15][15]: Expected: -0.392044	Actual: 0.537395
+
+Output MSE:  0.00359609
+----------------------------------------
+Floating-point Simulation FAILED :(
+----------------------------------------
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

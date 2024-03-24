@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="conv.h" path="F:\vivado_projects\EE4951_TaWork\conv.h"/>
+    <originFiles name="conv.h" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv.h"/>
+    <originFiles name="main_func.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\main_func.cpp"/>
+    <originFiles name="utils.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\utils.cpp"/>
+    <originFiles name="utils.h" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\utils.h"/>
+    <originFiles name="conv1x1.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv1x1.cpp"/>
+    <originFiles name="conv_bias1x1.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv_bias1x1.bin"/>
+    <originFiles name="conv_input1x1.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv_input1x1.bin"/>
+    <originFiles name="conv_output_torch1x1.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv_output_torch1x1.bin"/>
+    <originFiles name="conv_weight1x1.bin" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\conv_weight1x1.bin"/>
+  </source>
+  <testbench>
+    <originFiles name="sim.cpp" path="F:\vivado_projects\EE4951_TaWork\EE4951_hls_veri_1x1\sim.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

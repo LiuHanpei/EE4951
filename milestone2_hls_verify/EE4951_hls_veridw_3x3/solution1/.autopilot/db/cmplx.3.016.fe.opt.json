@@ -1,0 +1,33 @@
+{
+  "0": {
+    "basicblocks": 1975,
+    "calls": "1",
+    "file": "main_func.cpp",
+    "fileloc": 3,
+    "instructions": 18499,
+    "loads": {
+      "L": 320
+    },
+    "name": "main_func",
+    "stores": {
+      "L": 969,
+      "T": 320
+    },
+    "total_instructions": 36902
+  },
+  "1": {
+    "basicblocks": 671,
+    "calls": "",
+    "file": "conv3x3.cpp",
+    "fileloc": 3,
+    "instructions": 18403,
+    "loads": {
+      "L": 6717
+    },
+    "name": "conv_3x3",
+    "stores": {
+      "L": 640
+    },
+    "total_instructions": 18403
+  }
+}
