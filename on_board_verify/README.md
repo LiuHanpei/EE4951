@@ -1,4 +1,4 @@
-This guide outlines how to test the functionality of your design on the Ultra96V2 board. To access the board interface, navigate to http://192.168.3.1/ , and locate the "EE4951_on_board_verify" file for the code essential for verification. The name of the code is “control_code.ipynb”.
+This guide outlines how to test the functionality of your design on the Ultra96V2 board.
 
 Before executing the bitstream, ensure to upload your binary files along with the ".bit" and ".hwh" files related to your design.
 
