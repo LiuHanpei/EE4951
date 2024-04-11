@@ -19,10 +19,10 @@ layer0 = torch.nn.Conv2d(numInputChannels, numInputChannels, kernel_size=kernelS
 input0 = torch.randn(batchSize, numInputChannels, inputHeight, inputWidth, dtype=torch.float)
 output0 = layer0(input0)
 
-layer1 = torch.nn.Conv2d(numInputChannels, numOutputChannels, kernel_size=kernelSize, stride=strideSize, padding=paddingSize, groups = numInputChannels, bias=True)
+layer1 = torch.nn.Conv2d(numInputChannels, numOutputChannels, 1, 1, 0, bias=True))
 input1 = output0
 output1 = layer1(input1)
-# output = layer0(input)
+
 print('input0 size:',input0.size())
 print('weight0 size:',layer0.weight.size())
 print('bias0 size:',layer0.bias.size())
