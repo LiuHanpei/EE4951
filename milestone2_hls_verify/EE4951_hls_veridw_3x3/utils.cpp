@@ -62,8 +62,8 @@ void store_output_tile_to_DRAM (
     fm_t out_fm_buf[OUT_DEPTH][OUT_HEIGHT][OUT_WIDTH]
 )
 {
-#pragma HLS ARRAY_PARTITION variable=out_fm dim=3 type=complete
-#pragma HLS ARRAY_PARTITION variable=out_fm_buf dim=3 type=complete
+
+	
 
 OUTPUT_BUFFER_DEPTH:
 	for(int f = 0; f < OUT_DEPTH; f++)
